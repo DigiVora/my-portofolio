@@ -365,8 +365,8 @@ export function Projects() {
 const socials = [
   { key: "github",    icon: Github,    label: "GitHub",    handle: "@DigiVora",            href: "https://github.com/DigiVora" },
   { key: "linkedin",  icon: Linkedin,  label: "LinkedIn",  handle: "Achmad Khusnul Yakin", href: "https://www.linkedin.com/in/achmad-khusnul-yakin-25b87a3a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
-  { key: "instagram", icon: Instagram, label: "Instagram", handle: "Achmad Khusnul Yakin", href: "https://www.instagram.com/achmadkhusnulyakin?igsh=MXY2bTlybmhidDN3YQ==" },
-  { key: "telegram",  icon: Send,      label: "Telegram",  handle: "Achmad Khusnul Yakin", href: "https://t.me/achmad_khusnul_yakin" },
+  { key: "instagram", icon: Instagram, label: "Instagram", handle: "@achmadkhusnulyakin", href: "https://www.instagram.com/achmadkhusnulyakin?igsh=MXY2bTlybmhidDN3YQ==" },
+  { key: "telegram",  icon: Send,      label: "Telegram",  handle: "@achmad_khusnul_yakin", href: "https://t.me/achmad_khusnul_yakin" },
   { key: "email",     icon: Mail,      label: "Email",     handle: "ahmadkhusnulyakin26@gmail.com", href: "mailto:ahmadkhusnulyakin26@gmail.com" },
 ];
 
